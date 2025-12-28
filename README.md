@@ -4,7 +4,7 @@
 
 🔍Sobre mim
 
-Me chamo Pedro Miguel, tenho 19 anos e sou natural de São Paulo, Sou formado em Técnico em Química e atualmente estou Cursando Bacharelado Em Ciência de Dados Pela UNIVESP. Sou apaixonado por técnoligia desde pequeno e hoje posso aplicar meus conhecimentos.
+Me chamo Pedro Miguel, tenho 19 anos e sou natural de São Paulo, Sou formado em Técnico em Química e atualmente estou Cursando Bacharelado Em Ciência de Dados Pela UNIVESP. Sou apaixonado por tecnologia desde pequeno e hoje posso aplicar meus conhecimentos.
 
 ⚙Técnologias e Ferramentas
 
